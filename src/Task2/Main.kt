@@ -1,7 +1,6 @@
 package Task2
 fun main (){
     fact(7,14)
-    // for (i in 7..14) println(i)
 }
 fun fact (a : Int , b : Int ) {
     var c = 1
